@@ -3,3 +3,15 @@
 ################################################################################
 
 *.ipch
+/bin/Debug/Win32/imgui.tlog/CL.command.1.tlog
+*.tlog
+*.idb
+*.lib
+*.obj
+*.log
+*.pdb
+*.db
+*.opendb
+*.suo
+*.user
+*.filters
